@@ -5,7 +5,8 @@ Web-app notes
 * Destructive operations have an undo link instead of a confirmation window
 * Few concepts
 * Staggered loading. Ouside (layout) -> inside (data)
-* Frameworks back/bookmark, etc. features
+* Frameworks preserve back/bookmark, etc. features
+* Don't have thumbnails link to images if the images are the same size
 
 * Solve a real problem/need
 * Build a community, then make something valuable for them
