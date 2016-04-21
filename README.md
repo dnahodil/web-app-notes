@@ -16,3 +16,4 @@ Web-app notes
 * Don't have thumbnails link to images if the images are the same size
 * If an element responds to mouseover it must respond to click (links within spans but span is not clickable)
 * Clickable elements which move (e.g. because some other content has loaded). Delay?
+* Elements which move things (other elements or themselves) when moused-over
